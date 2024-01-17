@@ -1,0 +1,8 @@
+1 25 Fish Coke 510-555-2974 Mike D. Ryu
+2 23 Beef Whiskey 510-555-1794 Jessica R. Ryu
+3 22 Chicken Wine 555-0452 Tobias P. Bleisch
+4 25 Lamb Beer 408-555-6262 Kyle J. Mulligan
+5 99 Veggies Water 805-555-1236 Boaty MacBoatface
+6 18 Beef Fanta 805-555-7918 Michelle L. Lovejoy 
+7 20 Pork Beer 714-555-7194 Joyce K. Newton
+8 27 Chicken Water 206-555-7773 James Lee
